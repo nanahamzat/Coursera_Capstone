@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# Predicting the Best Office Location with K-means
 SUGGESTING THE BEST OFFICE LOCATION FOR INTERNET SERVICE PROVIDING COMPANY
 Nana Hamzat
 April 9, 2020
